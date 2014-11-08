@@ -1,0 +1,14 @@
+---
+layout:     post
+title:      "A New Start"
+subtitle:   "Yet another attempt at blogging"
+date:       2014-11-09 12:00:00
+author:     "Alan Lee"
+header-img: "img/post-bg-06.jpg"
+---
+
+<p>Wow a new blog!!!</p>
+
+
+
+Photographs by <a href="https://www.flickr.com/photos/nasacommons/">NASA on The Commons</a>.</p>

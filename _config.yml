@@ -1,0 +1,14 @@
+# Site settings
+title: Alan's Dev Notes
+email: coderiff@gmail.com
+description: "Alan's notes on software development."
+baseurl: ""
+twitter_username: coderiff
+github_username:  coderiff
+
+# Build settings
+markdown: kramdown
+highlighter: pygments
+permalink: pretty
+paginate: 5
+exclude: ["node_modules"]
